@@ -2,7 +2,7 @@
 Repository to hold my 4490Z thesis under Professor Kamran Sedig at Western University Canada
 This program will create a classification decision tree. 
 
-#How to use
+# How to use
 
 -Iris Visualizer can be run by simple running a local web server in the Iris Visualizer folder. The program rums on an HTML page. 
 
