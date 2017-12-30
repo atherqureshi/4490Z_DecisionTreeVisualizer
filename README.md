@@ -1,5 +1,5 @@
 # My Undergrad Thesis: Decision Visualizer
-Repository to hold my 4490Z thesis under Professor Kamran Sedig at Western University Canada
+Repository to hold my 4490Z thesis under Professor Kamran Sedig at Western University Canada. 
 This program will create a classification decision tree. 
 
 # How to use
